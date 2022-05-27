@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spider20220525:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spider20220525</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spider20220525-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spider20220525:war exploded" />
+    </root>
+  </artifact>
+</component>
